@@ -9,4 +9,8 @@ This webpage is a daily planner. When a user loads the page, it displays the cur
 
 ### Screenshots
 
-![Deployed Application](
+![Deployed Application](https://github.com/lrk83/Work-Day-Scheduler/blob/main/assets/Screenshots/Deployed%20Application.png)
+
+![Entering New Event](https://github.com/lrk83/Work-Day-Scheduler/blob/main/assets/Screenshots/Editing%20an%20Event.png)
+
+![Saved Events Persisting](https://github.com/lrk83/Work-Day-Scheduler/blob/main/assets/Screenshots/Events%20persisting.png)
